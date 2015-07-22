@@ -1,0 +1,27 @@
+<map id="/home/travis/build/Reactive&#45;Extensions/RxCpp/Rx/v2/src/rxcpp/schedulers/rx&#45;immediate.hpp" name="/home/travis/build/Reactive&#45;Extensions/RxCpp/Rx/v2/src/rxcpp/schedulers/rx&#45;immediate.hpp">
+<area shape="rect" id="node3" href="$rx-includes_8hpp.html" title="../rx&#45;includes.hpp" alt="" coords="2373,136,2496,165"/>
+<area shape="rect" id="node5" href="$rx-trace_8hpp.html" title="rx&#45;trace.hpp" alt="" coords="2824,213,2915,243"/>
+<area shape="rect" id="node58" href="$rx-util_8hpp.html" title="rx&#45;util.hpp" alt="" coords="1859,213,1936,243"/>
+<area shape="rect" id="node61" href="$rx-predef_8hpp.html" title="rx&#45;predef.hpp" alt="" coords="1960,213,2059,243"/>
+<area shape="rect" id="node64" href="$rx-subscription_8hpp.html" title="rx&#45;subscription.hpp" alt="" coords="2083,213,2213,243"/>
+<area shape="rect" id="node67" href="$rx-observer_8hpp.html" title="rx&#45;observer.hpp" alt="" coords="2237,213,2349,243"/>
+<area shape="rect" id="node70" href="$rx-scheduler_8hpp.html" title="rx&#45;scheduler.hpp" alt="" coords="4376,213,4493,243"/>
+<area shape="rect" id="node92" href="$rx-subscriber_8hpp.html" title="rx&#45;subscriber.hpp" alt="" coords="2373,213,2496,243"/>
+<area shape="rect" id="node95" href="$rx-notification_8hpp.html" title="rx&#45;notification.hpp" alt="" coords="2520,213,2645,243"/>
+<area shape="rect" id="node98" href="$rx-coordination_8hpp.html" title="rx&#45;coordination.hpp" alt="" coords="2669,213,2800,243"/>
+<area shape="rect" id="node101" href="$rx-sources_8hpp.html" title="rx&#45;sources.hpp" alt="" coords="3941,213,4048,243"/>
+<area shape="rect" id="node113" href="$rx-subjects_8hpp.html" title="rx&#45;subjects.hpp" alt="" coords="2989,213,3099,243"/>
+<area shape="rect" id="node116" href="$rx-operators_8hpp.html" title="rx&#45;operators.hpp" alt="" coords="3123,213,3237,243"/>
+<area shape="rect" id="node119" href="$rx-observable_8hpp.html" title="rx&#45;observable.hpp" alt="" coords="3261,213,3387,243"/>
+<area shape="rect" id="node122" href="$rx-connectable__observable_8hpp.html" title="rx&#45;connectable_observable.hpp" alt="" coords="3411,213,3613,243"/>
+<area shape="rect" id="node125" href="$rx-grouped__observable_8hpp.html" title="rx&#45;grouped_observable.hpp" alt="" coords="3637,213,3816,243"/>
+<area shape="rect" id="node73" href="$rx-currentthread_8hpp.html" title="schedulers/rx&#45;currentthread.hpp" alt="" coords="4003,291,4208,320"/>
+<area shape="rect" id="node76" href="$rx-runloop_8hpp.html" title="schedulers/rx&#45;runloop.hpp" alt="" coords="4232,291,4403,320"/>
+<area shape="rect" id="node79" href="$rx-newthread_8hpp.html" title="schedulers/rx&#45;newthread.hpp" alt="" coords="4427,291,4616,320"/>
+<area shape="rect" id="node82" href="$rx-eventloop_8hpp.html" title="schedulers/rx&#45;eventloop.hpp" alt="" coords="4640,291,4824,320"/>
+<area shape="rect" id="node86" href="$rx-virtualtime_8hpp.html" title="schedulers/rx&#45;virtualtime.hpp" alt="" coords="4848,291,5037,320"/>
+<area shape="rect" id="node89" href="$rx-sameworker_8hpp.html" title="schedulers/rx&#45;sameworker.hpp" alt="" coords="5061,291,5261,320"/>
+<area shape="rect" id="node104" href="$rx-create_8hpp.html" title="sources/rx&#45;create.hpp" alt="" coords="3493,291,3640,320"/>
+<area shape="rect" id="node107" href="$rx-range_8hpp.html" title="sources/rx&#45;range.hpp" alt="" coords="3664,291,3808,320"/>
+<area shape="rect" id="node110" href="$rx-iterate_8hpp.html" title="sources/rx&#45;iterate.hpp" alt="" coords="3832,291,3979,320"/>
+</map>
